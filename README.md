@@ -1,4 +1,6 @@
 # Coding-Assignment-Data-Bias
+(In order for the program "Data_Bias.ipynb" to work you will need to download "comments - Sheet1.csv" and place it in files (for google colab).
+
 This project examines and investigates a dataset of internet comments and their scores, then formulates queries using the Perspective API client to score the toxicity of each comment.
 
 Hypothesis: Perspective will make more mistakes in trash talk and slang indicating it may not be toxic.
